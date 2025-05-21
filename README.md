@@ -54,7 +54,7 @@ pandas==1.5.3
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/yourusername/perovskite-experiment.git
+git clone https://github.com/catm542-ai/PerovskiteGrowthDetection.git
 cd perovskite-experiment
    ```
 2. Install required packages:
